@@ -10,6 +10,8 @@ Contains 7667 movies scraped from IMDB that consists of information like mpaa ra
 
 Dataset is available on [(Kaggle)](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
+GeoSpatial Dataset used as well for map usage. Available on [(Kaggle)](https://www.kaggle.com/datasets/ktochylin/world-countries)
+
 ## Exploratory Questions
 1. What are the most profitable movies?
 2. What are the least profitable movies?
