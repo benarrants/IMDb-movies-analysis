@@ -2,7 +2,7 @@
 ## Obective
 IMDB is an online database for information on many types of media consumption, but here the focus is on movies.
 
-The goal is to test the Hypothesis of: Revenue can be optimized for a film.
+To conduct an exploratory analysis and create a interactive dashboard with the results.
 
 ## Data
 
@@ -10,7 +10,7 @@ Contains 7667 movies scraped from IMDB that consists of information like mpaa ra
 
 Dataset is available on [(Kaggle)](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
-## Exploratory Questions other than the Hypthesis
+## Exploratory Questions
 1. What are the most profitable movies?
 2. What are the least profitable movies?
 3. What’s the most profitable genre?
@@ -26,6 +26,9 @@ Dataset is available on [(Kaggle)](https://www.kaggle.com/datasets/danielgrijalv
 13. How does revenue breakdown regarding country?
 14. Which country has the most revenue?
 15. Do some countries or companies have a score that is significantly different from others, and why?
+
+## Hypothesis developed during Analysis
+Revenue can be optimized for a film
 
 ## Deliverables
 • Presentation of Analysis [(Tableau Visuals)](https://public.tableau.com/views/IMDBMoviesAnalysis6_7Project/Story)
