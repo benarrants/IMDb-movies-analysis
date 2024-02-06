@@ -1,4 +1,4 @@
-# IMDb-movies-analysis
+# IMDb Movies Analysis
 ## Obective
 IMDB is an online database for information on many types of media consumption, but here the focus is on movies.
 
