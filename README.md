@@ -41,7 +41,7 @@ Analysis yielded uncertain results, and there are questions left unanswered as t
 
 In the future, analysis could ideally include variables such as ticket price, premiere date, and streaming platform (if applicable). This would require an additional dataset.
 
-There's also unanswered questions that were not addressed in this analysis with the available dataset simple due to scope and time, such as:
+There's also unanswered questions that were not addressed in this analysis with the available dataset simply due to scope and time, such as:
 1. What is the most successful company?
 2. Is there a year more, or less, profitable than the others?
 3. Have companies seen significant changes in revenue over time?
