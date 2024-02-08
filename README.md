@@ -6,7 +6,7 @@ To conduct an exploratory analysis and create a interactive dashboard with the r
 
 ## Data
 
-Contains 7667 movies scraped from IMDB that consists of information like mpaa rating, genre, runtime, IMDb scores and votes, cast and crew, as well as budget and gross revenue.
+Contains 7667 movies scraped from IMDb that consists of information like mpaa rating, genre, runtime, IMDb scores and votes, cast and crew, as well as budget and gross revenue.
 
 Dataset is available on [(Kaggle)](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
